@@ -1,136 +1,117 @@
-<h1 align="center">Hi there 👋, I'm Sivasankar B</h1>
-<h3 align="center">Full Stack Developer | .NET Core, React & Angular | AI-Assisted Development</h3>
-
-<p align="center">
-  I specialize in building production-grade web applications, REST APIs, and managing SQL databases. I have 3+ years of experience delivering solutions across healthcare, ERP, farm management, and logistics domains.
-</p>
-
-<p align="center">
+<div align="center">
+  <h1>👋 Hi, I'm Sivasankar B</h1>
+  <h3>Full Stack Developer | .NET Core • React • Angular • AI-Assisted</h3>
+  <p>I specialize in building production-grade web applications, REST APIs, and managing SQL databases. 3+ years of experience delivering enterprise solutions across healthcare, ERP, and logistics.</p>
+  
   <a href="mailto:sankarsivag173@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+</div>
 
----
+<br/>
 
-### 🚀 About Me
+<!-- Tech Stack Section -->
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-- 🔭 I’m currently working on a **Farm Management System** using React, multiple APIs, and Docker.
-- 🌱 I’m currently expanding my skills in **Project Management** (MBA) and **AI-Assisted Coding**.
-- 💡 I strongly believe in **clean code, problem-solving, and continuous learning**.
-- 🛠️ I frequently use **GitHub Copilot** for code generation, debugging, and improving productivity.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Frontend:**
-<p>
+<div align="center">
+  <h4>Frontend</h4>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
+  
+  <br/><br/>
 
-**Backend & Databases:**
-<p>
+  <h4>Backend & Databases</h4>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+  
+  <br/><br/>
 
-**Tools & Others:**
-<p>
+  <h4>DevOps & Tools</h4>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+</div>
 
----
-
-### 💻 Featured Projects & Experience
-
-<details open>
-<summary><b>🌾 Farm Management System (Aug 2026 - Present)</b></summary>
 <br/>
-Built a comprehensive system managing finance, labour/payroll, yield/harvest, and sales/revenue workflows. 
-<br/><br/>
-<b>Tech Stack:</b> React, REST APIs, Docker, GitHub Copilot
-</details>
 
-<details>
-<summary><b>🚚 Transport Management System / TMS (Aug 2026)</b></summary>
+<!-- Projects Section -->
+<h2 align="center">💻 Featured Projects & Experience</h2>
+
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+      <h3>🌾 Farm Management System</h3>
+      <p><b>Aug 2026 - Present</b></p>
+      <p>Built a comprehensive system managing finance, labour/payroll, yield/harvest, and sales/revenue workflows.</p>
+      <p><b>Tech:</b> React, REST APIs, Docker, AI Tools</p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+      <h3>🚚 Transport Management (TMS)</h3>
+      <p><b>Aug 2026</b></p>
+      <p>Implemented Angular and TypeScript UI updates based on Figma designs, ensuring responsive and clean UI.</p>
+      <p><b>Tech:</b> Angular, TypeScript, Figma</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+      <h3>📦 KPOS Inventory (Ongoing)</h3>
+      <p><b>Ongoing</b></p>
+      <p>Developing an advanced inventory system with pricing, accounts, and terminal management using Repository Pattern.</p>
+      <p><b>Tech:</b> C#, .NET, Web API, Radzen Blazor, SQL</p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+      <h3>📦 Inventory Management</h3>
+      <p><b>Oct 2025 - Jan 2026</b></p>
+      <p>Developed a complete Inventory Management System from scratch with separate architecture (Web API, DTOs, Services, DB) and JWT auth.</p>
+      <p><b>Tech:</b> .NET 8, Blazor WASM, EF Core, SQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+      <h3>🎓 DICIP Student Platform</h3>
+      <p><b>Feb 2025 - Jul 2025</b></p>
+      <p>Independently developed org CRUD, goal setting, habit tracking, and assessments. Implemented complete auth with email notifications.</p>
+      <p><b>Tech:</b> .NET 9, Blazor WASM, SQL Server</p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+      <h3>🏪 ZoneCloud POS</h3>
+      <p><b>Jan 2025 - Aug 2025</b></p>
+      <p>Built complex POS and Inventory modules with complex business logic, PDF generation (DinkToPdf), and QR codes.</p>
+      <p><b>Tech:</b> Web API, MudBlazor, Radzen, HTML/CSS</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+      <h3>🏥 Clinical Massage Platform</h3>
+      <p><b>May 2024 - Sep 2024</b></p>
+      <p>Developed a clinic management website with dashboards, appointment scheduling, and integrated Google Drive and Square payments.</p>
+      <p><b>Tech:</b> .NET 8, Dapper, EF Core, HTML/CSS</p>
+    </td>
+    <td width="50%" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+      <h3>🛒 KPOS Point of Sale</h3>
+      <p><b>Jan 2024 - Jun 2025</b></p>
+      <p>Developed a user-friendly POS system focusing on intuitive UX while maintaining robust backend functionality.</p>
+      <p><b>Tech:</b> Web API, Radzen Blazor</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" style="padding: 15px; border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+      <h3>🛢️ Al Barakat Golden Website</h3>
+      <p><b>Dec 2023 - Mar 2025</b></p>
+      <p>Built the first complete website for a Kuwait-based Oil & Gas industry solutions company, establishing their initial online presence with reCAPTCHA and basic CMS features.</p>
+      <p><b>Tech:</b> ASP.NET Core MVC (net6.0), HTML, CSS</p>
+    </td>
+  </tr>
+</table>
+
 <br/>
-Implemented Angular and TypeScript UI updates based on Figma designs, ensuring responsive and clean UI.
-<br/><br/>
-<b>Tech Stack:</b> Angular, TypeScript, Figma
-</details>
 
-<details>
-<summary><b>📦 KPOS Inventory Management (Ongoing)</b></summary>
-<br/>
-Developing an advanced inventory system with pricing, accounts, and terminal management using Repository Pattern.
-<br/><br/>
-<b>Tech Stack:</b> C#, .NET, Web API, Radzen Blazor, SQL Server
-</details>
-
-<details>
-<summary><b>📦 Inventory Management System (Oct 2025 - Jan 2026)</b></summary>
-<br/>
-Developed a complete Inventory Management System from scratch. Implemented separate project architecture (Web API, DTOs, Services, Database) with JWT authentication and Serilog.
-<br/><br/>
-<b>Tech Stack:</b> .NET 8 Web API, Blazor WebAssembly, Entity Framework Core, SQL Server
-</details>
-
-<details>
-<summary><b>🎓 DICIP - Student Development Platform (Feb 2025 - Jul 2025)</b></summary>
-<br/>
-Independently developed organization CRUD operations, goal setting, habit tracking, and assessment features for a school student health platform. Implemented complete authentication with email notifications.
-<br/><br/>
-<b>Tech Stack:</b> .NET 9, Blazor WebAssembly, SQL Server
-</details>
-
-<details>
-<summary><b>🏪 ZoneCloud - POS & Inventory System (Jan 2025 - Aug 2025)</b></summary>
-<br/>
-Built complex POS and Inventory Management modules (sales, purchase, customers, reporting). Implemented complex business logic, PDF generation (DinkToPdf), and QR codes.
-<br/><br/>
-<b>Tech Stack:</b> Web API, MudBlazor, Radzen, HTML/CSS
-</details>
-
-<details>
-<summary><b>🏥 Clinical Massage Platform (May 2024 - Sep 2024)</b></summary>
-<br/>
-Developed a comprehensive hospital clinic management website with dashboards for client/doctor management and appointment scheduling. Integrated Google Drive API and Square payment gateway.
-<br/><br/>
-<b>Tech Stack:</b> .NET 8, Dapper, EF Core, HTML/CSS
-</details>
-
-<details>
-<summary><b>🛒 KPOS - Point of Sale System (Jan 2024 - Jun 2025)</b></summary>
-<br/>
-Developed a user-friendly POS system focusing on intuitive UX while maintaining robust backend functionality for sales processing and inventory.
-<br/><br/>
-<b>Tech Stack:</b> Web API, Radzen Blazor
-</details>
-
-<details>
-<summary><b>🛢️ Al Barakat Golden Website (Dec 2023 - Mar 2025)</b></summary>
-<br/>
-Built the first complete website for a Kuwait-based Oil & Gas industry solutions company, establishing their initial online presence.
-<br/><br/>
-<b>Tech Stack:</b> ASP.NET Core MVC (net6.0), HTML, CSS
-</details>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivag173&show_icons=true&theme=radical&hide_border=true" alt="Sivag173's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivag173&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <i>Always open to connecting with fellow developers and exploring new full-stack opportunities!</i>
+</div>
