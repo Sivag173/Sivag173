@@ -1,15 +1,27 @@
+<!-- ========================================== -->
+<!-- HEADER SECTION                             -->
+<!-- ========================================== -->
 <div align="center">
   <h1>👋 Hi, I'm Sivasankar B</h1>
   <h3>Full Stack Developer | .NET Core • React • Angular • AI-Assisted</h3>
   <p>I specialize in building production-grade web applications, REST APIs, and managing SQL databases. 3+ years of experience delivering enterprise solutions across healthcare, ERP, and logistics.</p>
   
-  <a href="mailto:sankarsivag173@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <br/>
+  
+  <a href="mailto:sankarsivag173@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="[YOUR_LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 <br/>
+<br/>
 
-<!-- Tech Stack Section -->
+<!-- ========================================== -->
+<!-- BODY: TECH STACK SECTION                   -->
+<!-- ========================================== -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
@@ -39,8 +51,11 @@
 </div>
 
 <br/>
+<br/>
 
-<!-- Projects Section -->
+<!-- ========================================== -->
+<!-- BODY: FEATURED PROJECTS SECTION            -->
+<!-- ========================================== -->
 <h2 align="center">💻 Featured Projects & Experience</h2>
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
@@ -111,7 +126,13 @@
 </table>
 
 <br/>
+<br/>
 
+<!-- ========================================== -->
+<!-- FOOTER SECTION                             -->
+<!-- ========================================== -->
 <div align="center">
-  <i>Always open to connecting with fellow developers and exploring new full-stack opportunities!</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
+  <p><i>Always open to connecting with fellow developers and exploring new full-stack opportunities!</i></p>
+  <p>Let's build something great together. 🚀</p>
 </div>
